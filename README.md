@@ -17,7 +17,8 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-
+<h2>👨‍💻 LeetCode:</h2>
+https://github.com/TraperRoku/LeetCode
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/filip-ka%C5%BAmierczak-3b20172b5/]
