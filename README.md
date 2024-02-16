@@ -3,7 +3,7 @@
 <h2>👨‍💻 Java Development Projects:</h2>
 
 - <b>Login Management (Java + GUI + MySql)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Java with MySql](https://github.com/TraperRoku/JavaGUI/tree/main)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
