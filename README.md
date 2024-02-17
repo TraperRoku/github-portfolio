@@ -3,7 +3,7 @@
 <h2>👨‍💻 Java Development Projects:</h2>
 
 - <b>Login Management (Java + GUI + MySQL)</b>
-  - [Praciting Java with MySql](https://github.com/TraperRoku/JavaGUI/tree/main)
+  - [Praciting Java with MySQL](https://github.com/TraperRoku/JavaGUI/tree/main)
 
 - <b>LeetCode</b>
   - [Pracitce algo](https://github.com/TraperRoku/LeetCode)
