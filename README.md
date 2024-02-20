@@ -5,6 +5,10 @@
 - <b>Login Management (Java + GUI + MySQL)</b>
   - [Praciting Java with MySQL](https://github.com/TraperRoku/JavaGUI/tree/main)
 
+- <b>FullStack CRUD App (Spring Boot + Docker + MySQL + React)</b>
+  - [Praciting Spring Boot with Simple Usage of React and Docker](https://github.com/TraperRoku/FullstackLibraryApp)
+    
+
 - <b>LeetCode</b>
   - [Pracitce algo](https://github.com/TraperRoku/LeetCode)
 
